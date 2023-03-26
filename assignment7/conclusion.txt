@@ -1,0 +1,14 @@
+IIT2019038
+
+Device Specifications -
+		Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+		RAM               :  8 GB
+		CPU               :  8
+		Threads per core  :  2
+
+
+Time taken to multiply using sequential  :2.667000 Seconds
+
+Time taken to multiply using Pthread (parallel)  :2.443000 Seconds
+
+Time taken to multiply using OpenMp (parallel)  :2.352000 Seconds
